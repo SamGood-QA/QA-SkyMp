@@ -35,12 +35,6 @@
 | 7 | Click "Yes" | Skills are reset. Memory points return to the maximum value. Non-old man: 1000, Old man: 1300 | - |
 | 8 | Click "Exit" | The panel closes, and the character can move | - |
 
-## Status
-- [x] Pass
-- [ ] Fail (Link to Bug Report: [#])
-- [ ] Blocked
-- [ ] Skipped
-
 ## Impact Assessment
 - [ ] Critical: System unusable.
 - [ ] High: Core functionality broken.
