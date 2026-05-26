@@ -21,7 +21,6 @@ This repository contains QA artifacts for the SkyMp project, including test case
 - **Smoke Tests** — short checks for critical build verification.
 - **Test Reports** — concise summaries of testing results.
 - **Test Cases** — detailed test scenarios and expected results.
-- **Defects / Incidents** — issue documentation and tracking.
 
 ## Purpose
 
