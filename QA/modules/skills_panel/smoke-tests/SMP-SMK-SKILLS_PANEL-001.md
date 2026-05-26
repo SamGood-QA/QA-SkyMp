@@ -32,7 +32,7 @@
 | 4 | Click "Learn" | The skill changes color depending on its level. The amount of experience points in the "Experience" field decreases. Memory points decrease. | - |
 | 5 | Upgrade skill levels beyond the total "Memory" parameter value | Level upgrade does not occur | - |
 | 6 | Click "Reset" | A skill reset warning appears | - |
-| 7 | Click "Yes" | Skills are reset. Memory points return to the maximum value. Non-old man: 1000, Old man: 1300 | - |
+| 7 | Click "Yes" | Skills are reset. Memory points return to the maximum value. Non-old man: 1000, Old man: 1300. Experience points are returned according to the calculation formula | - |
 | 8 | Click "Exit" | The panel closes, and the character can move | - |
 
 ## Impact Assessment
