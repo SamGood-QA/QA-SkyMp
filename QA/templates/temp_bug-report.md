@@ -1,4 +1,4 @@
-# [PROJECT]-[TICKET_TYPE]-[MODULE]-[NUMBER]
+# SMP-BUG-[MODULE]-[NUMBER]
 
 >**Summary:** Chat input field shifts to the top of the screen on iOS Chrome browser
 >
