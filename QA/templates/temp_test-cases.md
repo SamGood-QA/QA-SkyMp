@@ -1,4 +1,4 @@
-# [PROJECT]-[TICKET_TYPE]-[MODULE]-[NUMBER]
+# SMP-TC-[MODULE]-[NUMBER]
 
 ## Metadata
 * **Title**: [Brief description of what is being tested]
