@@ -1,8 +1,8 @@
 # [PROJECT]-RPT-[MODULE]-[NUMBER]
 
-> **Summary:** [Brief summary of the testing work or result]
+> **Summary:** 
 >
-> **Example:** *[Smoke testing for the release build was completed successfully]*
+> **Example:** **
 
 | Field | Value |
 | :--- | :--- |

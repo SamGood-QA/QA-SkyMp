@@ -2,7 +2,7 @@
 
 > **Summary:** [Briefly describe the critical smoke scenario]
 >
-> **Example:** *[App launches, login works, and the main flow opens without errors]*
+> **Example:** **
 
 | Field | Value |
 | :--- | :--- |
