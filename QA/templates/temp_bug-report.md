@@ -1,8 +1,8 @@
 # SMP-BUG-[MODULE]-[NUMBER]
 
->**Summary:** Chat input field shifts to the top of the screen on iOS Chrome browser
+>**Summary:** 
 >
->**Example:** *When tapping the chat input field, the entire chat interface scrolls up, leaving the input field stuck at the top edge of the screen.*
+>**Example:** **
 
 | Field | Value |
 | :--- | :--- |
